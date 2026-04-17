@@ -46,7 +46,7 @@ bun run src/index.ts
 Este proyecto no incluye un watcher automático por defecto, pero puedes usar Bun con un comando de observación simple:
 
 ```bash
-bun bun --watch src/index.ts
+bun --watch src/index.ts
 ```
 
 > Si quieres, también puedes usar herramientas como `watchexec` para recargar automáticamente.
@@ -91,17 +91,6 @@ bun run src/index.ts
  ┃ ┗ 10-async-await.ts
  ┗ index.ts
 ```
-
-## 🤖 Uso de GitHub Copilot
-
-Puedes usar GitHub Copilot para:
-
-- generar ejemplos de código rápido
-- completar tipos y funciones
-- obtener sugerencias para refactorizar
-- redactar comentarios y documentación interna
-
-> Copilot es un gran apoyo en proyectos educativos, pero verifica siempre las respuestas y ajústalas según tu estilo de aprendizaje.
 
 ## 📝 Consejos finales
 
